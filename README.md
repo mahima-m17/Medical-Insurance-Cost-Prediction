@@ -1,4 +1,4 @@
-# 🏥 Medical Insurance Cost Predictor
+# 🏥 Medical Insurance Cost Predictor @ NeST Cyber Campus
 
 A simple Flask web app that predicts the medical insurance cost for an individual based on their personal details using a **Linear Regression** model trained on the classic `insurance.csv` dataset.
 
